@@ -4,6 +4,10 @@ Review of TS syntax
 
 Compare index.ts 
 
+![ts sample](ts-sample.png)
 
+to index.js 
 
-to index.js and see the difference yourself!
+![js sample](js-sample.png)
+
+and see the difference yourself!
